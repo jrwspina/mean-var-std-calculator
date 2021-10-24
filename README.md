@@ -1,3 +1,5 @@
+#### Mean-Variance-Standard Deviation Calculator is a project part of freeCodeCamp's [Data Analysis with Python course](https://www.freecodecamp.org/learn/data-analysis-with-python/), it's solution may be found in *mean_var_std.py*.
+
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
